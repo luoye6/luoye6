@@ -19,5 +19,5 @@ GitHub提交情况:
 GitHub语言:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoye6&theme=dark&layout=compact)
 力扣提交情况:
-![LeetCode](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/image-20230114192612762.png)
-![LeetCodeCommit](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/image-20230114192629378.png)
+![avatar](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/image-20230114192612762.png)
+![avatar](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/image-20230114192612762.png)
