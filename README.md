@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-GitHub提交情况:
+GitHub提交情况:<br/>
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=luoye6&show_icons=true&theme=dark&count_private=true)
-GitHub语言:
+GitHub语言:<br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoye6&theme=dark&layout=compact)
 力扣提交情况:
 ![avatar](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/image-20230114192612762.png)
