@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br/>
 GitHub提交情况:<br/>
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br/>
-[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoye6&show_icons=true&theme=radical))](https://luoye6.github.io/)
+[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoye6&show_icons=true&theme=radical)](https://luoye6.github.io/)
 <br/>
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br/>
 GitHub语言:<br/>
