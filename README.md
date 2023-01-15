@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br/>
 GitHub提交情况:<br/>
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br/>
-[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoye6&show_icons=true&theme=radical))](https://github.com/luoye6/github-readme-stats)
+[![luoye6's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoye6&show_icons=true&theme=radical))](https://luoye6.github.io/)
 <br/>
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br/>
 GitHub语言:<br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luoye6)](https://github.com/luoye6/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luoye6)](https://luoye6.github.io/)
 <br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
 力扣提交情况:<br/>
