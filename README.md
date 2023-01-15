@@ -27,7 +27,7 @@ GitHub语言:<br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
 力扣提交情况:<br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
-![image](https://github.com/luoye6/luoye6/blob/main/img/LeetCode1.png)<br/>
+[![image](https://github.com/luoye6/luoye6/blob/main/img/LeetCode1.png)](https://luoye6.github.io/)<br/>
 ☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️<br/>
-![image](https://github.com/luoye6/luoye6/blob/main/img/LeetCode2.png)<br/>
+[![image](https://github.com/luoye6/luoye6/blob/main/img/LeetCode2.png)](https://luoye6.github.io/)<br/>
 ☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️<br/>
