@@ -22,7 +22,7 @@ GitHub提交情况:<br/>
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐<br/>
 GitHub语言:<br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)](https://luoye6.github.io/)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luoye6&theme=dark&layout=compact)](https://luoye6.github.io/)
 <br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
 力扣提交情况:<br/>
