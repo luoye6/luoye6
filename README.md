@@ -27,7 +27,7 @@ GitHub语言:<br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
 力扣提交情况:<br/>
 ☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️☃️<br/>
-[![image](http://xxx.xiaobaitiao.club/project/力扣90题.png)](https://luoye6.github.io/)<br/>
+[![image](https://github.com/luoye6/luoye6/blob/main/img/%E5%8A%9B%E6%89%A3100%E9%A2%98%E5%9B%BE%E7%89%87.png)](https://luoye6.github.io/)<br/>
 ☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️<br/>
 [![image](http://xxx.xiaobaitiao.club/project/力扣90-2.png)](https://luoye6.github.io/)<br/>
 ☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️☀️<br/>
