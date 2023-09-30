@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);残风同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/luoye6/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=luoye6&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
@@ -20,7 +20,7 @@
 ---
 </details>
   
-  ✨ 站主目前为江西财经大学大三生，东幻梦想工作室成员，小破站万粉UP主，喜欢编程，动画和剪辑。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
+  ✨ 站主目前为浙江双非大三生，小破站3K粉UP主，喜欢编程，动画和剪辑。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题，喜欢把项目进行拓展和开源，研究AIGC和GPT调用问题。
  
  
 <!--my introduction end -->
@@ -37,25 +37,21 @@
 </p>
  
 <p align="center">
-  <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
+  <a href= "http://xxx.xiaobaitiao.club/project/weixin.png" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
   &emsp;
  
-  <a href="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
+  <a href="https://space.bilibili.com/259188222?spm_id_from=333.934.0.0" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
+  <a href= "https://luoye6.github.io/" target="_blank" alt="Instagram" title="Instagram">
     <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
   </a>
   &emsp;
-      <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
+      <a href="https://blog.csdn.net/qq_67358181?type=blog" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-     <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
   <br><br>
