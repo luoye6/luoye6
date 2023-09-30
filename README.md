@@ -54,6 +54,10 @@
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
+    <a href="https://leetcode.cn/u/luo-xie-wu-qing/">
+<img src="https://leetcode.com/favicon-32x32.png" alt="leetcode" width="30" height="30"/>
+  </a>
+    &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
