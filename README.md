@@ -46,8 +46,8 @@
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://luoye6.github.io/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
+  <a href= "https://luoye6.github.io/" target="_blank" alt="个人博客" title="个人博客">
+    <img src="https://img1.baidu.com/it/u=975844215,1172636629&fm=253&fmt=auto?w=800&h=800" width="28px"/>
   </a>
   &emsp;
       <a href="https://blog.csdn.net/qq_67358181?type=blog" target="_blank" alt="CSDN" title="CSDN">
