@@ -8,15 +8,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://luoye6.github.io/" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
-    
-- 🔭 empty
-- 🌱 empty
-- 🤔 Only two things make me moved. 
-  1. empty
-  2. empty
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/luoye6/luoye6/issues).
- 
+1) 勤奋
+2) 快速学习者
+3) 充满好奇
 ---
 </details>
   
@@ -79,6 +73,5 @@
 </p>
  
 <h2></h2>
- 
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
